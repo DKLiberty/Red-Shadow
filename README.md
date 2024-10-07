@@ -4,7 +4,7 @@
   <a href="https://buymeacoffee.com/dkliberty"><img src="https://img.shields.io/badge/buy me a coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
 
-![Red-Shadow Theme Preview](URL_TO_YOUR_PREVIEW_IMAGE) <!-- Replace with the URL to your preview image -->
+![Red-Shadow Theme Preview](https://github.com/DKliberty/Red-Shadow/Resources/Screenshot.png) <!-- Replace with the URL to your preview image -->
 
 ## Description
 
@@ -19,11 +19,6 @@ Red-Shadow is a stylish and minimalist theme for Obsidian, featuring a black-and
 ## Customization
 
 You can customize certain parameters of the theme in the CSS file located in the theme folder. To change the accent color and other elements, simply edit the corresponding values in the `theme.css` file.
-
-## Screenshots
-
-![Screenshot 1]() <!-- Replace with the URL to your screenshot -->
-![Screenshot 2]() <!-- Replace with the URL to your screenshot -->
 
 ## Contributing
 
