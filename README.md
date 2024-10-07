@@ -4,7 +4,12 @@
   <a href="https://buymeacoffee.com/dkliberty"><img src="https://img.shields.io/badge/buy me a coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
 
-![Red-Shadow Theme Preview](https://github.com/DKliberty/Red-Shadow/Resources/Screenshot.png) <!-- Replace with the URL to your preview image -->
+<br>
+
+![Red-Shadow Theme Preview](https://raw.githubusercontent.com/DKliberty/Red-Shadow/main/Resources/Screenshot.png)
+<p align=center>Screenshot</p>
+
+<br>
 
 ## Description
 
