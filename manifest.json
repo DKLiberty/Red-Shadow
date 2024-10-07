@@ -2,6 +2,6 @@
   "name": "Red-Shadow",
   "author": "@dkliberty",
   "repo": "https://github.com/DKLiberty/Red-Shadow",
-  "screenshot": ".png",
+  "screenshot": "https://github.com/DKLiberty/Red-Shadow/blob/main/Resources/Screenshot.png",
   "modes": ["dark"]
 }
