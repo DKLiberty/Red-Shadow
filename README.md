@@ -1,1 +1,1 @@
-# Red-Shadow
+# Obsidian: Red-Shadow
