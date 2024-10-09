@@ -6,7 +6,7 @@
 
 <br>
 
-![Red-Shadow Theme Preview](https://raw.githubusercontent.com/DKliberty/Red-Shadow/main/Resources/Screenshot.png)
+![Red-Shadow Theme Preview](https://raw.githubusercontent.com/DKliberty/Red-Shadow/main/Resources/FullScreenshot.png)
 <p align=center>Screenshot</p>
 
 <br>
