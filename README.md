@@ -1,4 +1,4 @@
-# Obsidian: Red-Shadow
+# Red-Shadow
 
 <p align=center>
   <a href="https://buymeacoffee.com/dkliberty"><img src="https://img.shields.io/badge/buy me a coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
